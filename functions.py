@@ -1,3 +1,6 @@
+def unDefinedFunction():
+    pass
+
 def myfunction():
     'this function prints "hello function"'
     print('hello function')
